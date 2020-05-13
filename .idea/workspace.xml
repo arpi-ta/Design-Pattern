@@ -1,7 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab6ebe1c-ab31-4753-b1b3-0ee2d3adb51b" name="Default Changelist" comment="" />
+    <list default="true" id="ab6ebe1c-ab31-4753-b1b3-0ee2d3adb51b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.1/IPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.1/ProcessPhoneRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.1/SamsungNote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.1/TestPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/OrderPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/OrderPhoneImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/OrderRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/OrderRepairImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.1.2/TestOrderRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.1/DBConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.1/TestDBConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/AudiHeadlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/AudiTire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/Headlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/MercedesFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/MercedesHeadlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/MercedesTire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/TestClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/1.2.2/Tire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Bottle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/BuilderPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Burger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/ChickenBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Coke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/ColdDrink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Meal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/MealBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Packing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Pepsi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/VegBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.1/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.2/BugatiVeyron.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.2/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.2/MovableAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.2/MovableAdapterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.1.2/MovableAdapterImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/FacadePatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/ShapeMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.1/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/HR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/LeaveDays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/LeaveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/LeaveRequestHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/ProjectManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/2.2.2/Supervisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/BasicUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/ChatMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/ChatMediatorClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/PremiumUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/TestMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.1/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/MessagePublisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/MessageSubscriberOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/MessageSubscriberThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/MessageSubscriberTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/bin/3.2/TestObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.1/IPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.1/ProcessPhoneRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.1/SamsungNote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.1/TestPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/OrderPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/OrderPhoneImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/OrderRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/OrderRepairImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.1.2/TestOrderRepair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.1/DBConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.1/TestDBConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/AudiHeadlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/AudiTire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/Headlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/MercedesFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/MercedesHeadlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/MercedesTire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/TestClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/1.2.2/Tire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Bottle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/BuilderPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Burger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/ChickenBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Coke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/ColdDrink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Meal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/MealBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Packing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Pepsi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/VegBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.1/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.2/BugatiVeyron.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.2/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.2/MovableAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.2/MovableAdapterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.1.2/MovableAdapterImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/FacadePatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/ShapeMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.1/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/HR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/LeaveDays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/LeaveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/LeaveRequestHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/ProjectManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/2.2.2/Supervisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/BasicUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/ChatMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/ChatMediatorClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/PremiumUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/TestMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.1/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/MessagePublisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/MessageSubscriberOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/MessageSubscriberThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/MessageSubscriberTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design priciple Handson/src/3.2/TestObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/OrderPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/OrderPhoneImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/OrderRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/OrderRepairImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session1_2/TestOrderRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_1/IPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_1/ProcessPhoneRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_1/SamsungNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_1/TestPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_1/DBConn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_1/TestDBConn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/AudiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/AudiHeadlight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/AudiTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/Headlight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/MercedesFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/MercedesHeadlight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/MercedesTire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/TestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day1_session_2_2/Tire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session1_2/BugatiVeyron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session1_2/Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session1_2/MovableAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session1_2/MovableAdapterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session1_2/MovableAdapterImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/FacadePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/ShapeMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_1/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/HR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/LeaveDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/LeaveRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/LeaveRequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/ProjectManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session2_2/Supervisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Bottle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/BuilderPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Burger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/ChickenBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Coke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/ColdDrink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/MealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Packing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Pepsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/VegBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day2_session_1_1/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/BasicUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/ChatMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/ChatMediatorClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/PremiumUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/TestMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/MessagePublisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/MessageSubscriberOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/MessageSubscriberThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/MessageSubscriberTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/bin/day3_session2/TestObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/OrderPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/OrderPhoneImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/OrderRepair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/OrderRepairImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session1_2/TestOrderRepair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_1/IPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_1/ProcessPhoneRepair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_1/SamsungNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_1/TestPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_1/DBConn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_1/TestDBConn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/AudiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/AudiHeadlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/AudiTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/Headlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/MercedesFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/MercedesHeadlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/MercedesTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/TestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day1_session_2_2/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session1_2/BugatiVeyron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session1_2/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session1_2/MovableAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session1_2/MovableAdapterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session1_2/MovableAdapterImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/FacadePatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/ShapeMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_1/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/HR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/LeaveDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/LeaveRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/LeaveRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/ProjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session2_2/Supervisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Bottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/BuilderPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/ChickenBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Coke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/ColdDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Meal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/MealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Packing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Pepsi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/VegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day2_session_1_1/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/BasicUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/ChatMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/ChatMediatorClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/PremiumUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/TestMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session1/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/MessagePublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/MessageSubscriberOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/MessageSubscriberThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/MessageSubscriberTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design priciple Handson/src/day3_session2/TestObserver.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +302,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bqtCnXpgnWefgbWxlqClDhnDEI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,5 +327,19 @@
       <updated>1589371326526</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
